@@ -1,0 +1,87 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    margin: auto;
+    margin-top: 3%;
+    border-spacing: 0.2rem;
+}
+
+table *{
+    width: 4.4rem;
+}
+
+th{
+    font-size: 2rem;
+    text-align: center;
+}
+
+td{
+    border: 0.082rem solid var(--color-borda);
+    border-radius: 0.4rem;
+    padding: 0.2rem;
+}
+
+tr{
+    height: 4rem;
+}
+
+.vazio{
+    border: none;
+}
+
+.numero{
+    text-align: right;
+    font-size: 0.7rem;
+}
+
+.simbolo{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+.nome{
+    text-align: center;
+    font-size: 0.7rem;
+}
+
+.amarelo{
+    background-color: var(--color-amarelo);
+}
+
+.azul{
+    background-color: var(--color-azul);
+}
+
+.ciano{
+    background-color: var(--color-ciano);
+}
+
+.cinza{
+    background-color: var(--color-cinza);
+}
+
+.laranja{
+    background-color: var(--color-laranja);
+}
+
+.rosa{
+    background-color: var(--color-rosa);
+}
+
+.marrom{
+    background-color: var(--color-marrom);
+}
+
+.roxo{
+    background-color: var(--color-roxo);
+}
+
+.verde{
+    background-color: var(--color-verde);
+}
+
+.vermelho{
+    background-color: var(--color-vermelho);
+}
